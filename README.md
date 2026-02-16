@@ -1,4 +1,4 @@
-# 🚂 Train Cargo Management – Linked List Implementation
+# Train Cargo Management – Linked List Implementation
 
 **Course:** COP4530 – Data Structures  
 **Semester:** Spring 2026  
