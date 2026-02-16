@@ -19,7 +19,13 @@ A command-line Spotify-inspired playlist manager built on a custom **doubly link
 
 ## How to Run
 
-Compile and launch the program. When prompted, enter a name for your playlist. You will then see a numbered menu — type a number and press Enter to execute any action.
+Compile and launch the program using the following commands:
+```bash
+g++ -std=c++17 -Wall -Wextra -o main main.cpp
+./main
+```
+
+When prompted, enter a name for your playlist. You will then see a numbered menu — type a number and press Enter to execute any action.
 
 ---
 
@@ -60,3 +66,4 @@ When selecting **Add song**, you will be prompted to enter:
 |-------------|-------------|
 | Xuan Gia Han Nguyen | 50% — `DoublyLinkedList.h`, Song class, testing |
 | Quang Hien Tran | 50% — `Playlist.h`, `main.cpp`, documentation |
+
